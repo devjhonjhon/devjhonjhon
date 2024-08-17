@@ -2,5 +2,5 @@
 - 💻 Estou interessado em explorar novas tecnologias no campo de Tecnologia da Informação (TI).
 - 📚 Atualmente, estou aprendendo programação para web como parte do meu curso e aplicando essas habilidades em projetos e atividades aqui no GitHub.
 - 🤝 Estou buscando colaborar em projetos de desenvolvimento web e trocar ideias relacionadas a programação e tecnologia.
-- 📧 Você pode me encontrar no [Instagram](https://www.instagram.com/jhonatthan.er/) ou me mandar um [Email](jhonatthan.filho09@aluno.ifce.edu.br).
+- 📧 Você pode me encontrar no [Instagram](https://www.instagram.com/jhonatthan.er/) ou me mandar um Email jhonatthan.filho09@aluno.ifce.edu.br.
 - ⚡ Fatos sobre mim: sou apaixonado por jogos e amo estudar tecnologia!
